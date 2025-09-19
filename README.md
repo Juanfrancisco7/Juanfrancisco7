@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1 align="center">¡Hola! Soy Juan Francisco Bencomo 👋</h1>
+  <h1 align="center">¡Hola! Soy Juan Francisco👋</h1>
   <h3 align="center">Un desarrollador web apasionado por transformar ideas en código funcional y elegante.</h3>
 </div>
 
@@ -24,11 +24,10 @@
 
 ### Sobre mí
 
-Soy un desarrollador web autodidacta con una gran pasión por la tecnología, originario de Venezuela y actualmente residiendo en Valencia, España. Mi enfoque principal es el **desarrollo full-stack**, construyendo aplicaciones robustas y escalables desde el concepto hasta su implementación. Me encanta enfrentar nuevos desafíos y aprender constantemente para mantenerme al día con las últimas tendencias del sector.
+Soy un desarrollador web autodidacta con una gran pasión por la tecnología. Mi enfoque principal es el **desarrollo full-stack**, construyendo aplicaciones robustas y escalables desde el concepto hasta su implementación. Me encanta enfrentar nuevos desafíos y aprender constantemente para mantenerme al día con las últimas tendencias del sector.
 
 - 🔭 Actualmente estoy trabajando en mi proyecto personal: un marketplace para conectar negocios.
 - 🌱 Estoy profundizando mis conocimientos en arquitecturas de microservicios y cloud computing.
-- 💬 Pregúntame sobre **Python, Django, JavaScript y SQL**.
 - 📫 ¿Hablamos? **contacto@juanfrancisco7.es**
 
 ---
@@ -37,25 +36,13 @@ Soy un desarrollador web autodidacta con una gran pasión por la tecnología, or
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://angular.io/">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angular-colored.svg" width="48" height="48" alt="Angular" />
-      </a>
-      <br>Angular
-    </td>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="48" height="48" alt="HTML5" />
       </a>
       <br>HTML5
     </td>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <a href="https://www.w3.org/TR/CSS/">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="48" height="48" alt="CSS3" />
       </a>
@@ -63,55 +50,20 @@ Soy un desarrollador web autodidacta con una gran pasión por la tecnología, or
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="110">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="110">
       <a href="https://www.python.org/">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
-    <td align="center" width="96">
-      <a href="https://www.djangoproject.com/">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="48" height="48" alt="Django" />
-      </a>
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mysql.com/">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.postgresql.org">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSQL" />
-      </a>
-      <br>PostgreSQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://git-scm.com/">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.docker.com/">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="https://getbootstrap.com/">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-     <td align="center" width="96">
-      </td>
   </tr>
 </table>
----
 
 ### 📊 Mis Estadísticas de GitHub
 
@@ -136,7 +88,7 @@ Soy un desarrollador web autodidacta con una gran pasión por la tecnología, or
 </td>
 <td width="50%">
 <a href="http://www.mundojuan.com" target="_blank">
-<img src="https://i.imgur.com/eB3jSoa.png" alt="Preview MundoJuan">
+<img src="https://raw.githubusercontent.com/Juanfrancisco7/Juanfrancisco7/main/Captura%20de%20pantalla%202025-09-19%20175655.png" alt="Preview MundoJuan">
 </a>
 </td>
 </tr>
