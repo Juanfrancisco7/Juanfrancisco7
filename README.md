@@ -68,8 +68,11 @@ Soy un desarrollador web autodidacta con una gran pasión por la tecnología. Mi
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juanfrancisco7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=99aadd&icon_color=99aadd&text_color=ffffff&border_color=2e3440" alt="Estadísticas de GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanfrancisco7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=99aadd&icon_color=99aadd&text_color=ffffff&border_color=2e3440" alt="Lenguajes más usados" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juanfrancisco7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanfrancisco7&layout=compact&langs_count=8&theme=tokyonight"/>
+
 </p>
 
 ### ✨ Proyecto Destacado
