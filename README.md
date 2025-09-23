@@ -68,14 +68,11 @@ Soy un desarrollador web autodidacta con una gran pasión por la tecnología. Mi
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juanfrancisco7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<p align="center">
-  <a href="https://github.com/Juanfrancisco7">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juanfrancisco7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <a href="https://github.com/Juanfrancisco7" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juanfrancisco7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Juan" />
   </a>
-  <a href="https://github.com/Juanfrancisco7">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanfrancisco7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Lenguajes Más Usados" />
+  <a href="https://github.com/Juanfrancisco7" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanfrancisco7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Lenguajes de programación más usados" />
   </a>
 </p>
 
