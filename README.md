@@ -34,36 +34,44 @@ Soy un desarrollador web autodidacta con una gran pasión por la tecnología. Mi
 
 ### 💻 Tecnologías y Herramientas
 
-<table align="center">
-  <tr>
-    <td align="center" width="110">
-      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="48" height="48" alt="HTML5" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="110">
-      <a href="https://www.w3.org/TR/CSS/">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="48" height="48" alt="CSS3" />
-      </a>
-      <br>CSS3
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="110">
-      <a href="https://www.python.org/">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <div style="text-align: center;">
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="48" height="48" alt="HTML5" />
+    </a>
+    <br>HTML5
+  </div>
+  <div style="text-align: center;">
+    <a href="https://www.w3.org/TR/CSS/">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="48" height="48" alt="CSS3" />
+    </a>
+    <br>CSS3
+  </div>
+  <div style="text-align: center;">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="48" height="48" alt="JavaScript" />
+    </a>
+    <br>JavaScript
+  </div>
+  <div style="text-align: center;">
+    <a href="https://www.typescriptlang.org/">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" height="48" alt="TypeScript" />
+    </a>
+    <br>TypeScript
+  </div>
+  <div style="text-align: center;">
+    <a href="https://www.python.org/">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python" />
+    </a>
+    <br>Python
+  </div>
+  <div style="text-align: center;">
+    <a href="https://angular.io/">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angular-colored.svg" width="48" height="48" alt="Angular" />
+    </a>
+    <br>Angular
+  </div>
+</div>
 
 ### 📊 Mis Estadísticas de GitHub
 
