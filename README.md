@@ -68,7 +68,7 @@ Soy un desarrollador web autodidacta con una gran pasión por la tecnología. Mi
     </td>
     <td align="center" width="96">
       <a href="https://angular.io/">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angular-colored.svg" width="48" height="48" alt="Angular" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular" />
       </a>
       <br>Angular
     </td>
